@@ -3,8 +3,8 @@
 
 ![Github version](https://img.shields.io/badge/version-0.1.0-darkgreen?style=flat-square)
 ![Github licence](https://img.shields.io/badge/licence-CC-important?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/Placer0884/placer-package-java?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/Placer0884/placer-package-java?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/erikpersson0884/placer-package-java?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/erikpersson0884/placer-package-java?style=flat-square)
 
 
 ### The package currently contains:
