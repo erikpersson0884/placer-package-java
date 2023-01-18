@@ -1,4 +1,4 @@
-# Placer_package
+# Placer-package-java
 ## *Package written by Placer_0884*
 
 ![Github version](https://img.shields.io/badge/version-0.1.0-darkgreen?style=flat-square)
